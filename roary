@@ -1,1 +1,0 @@
-roary -e --mafft -p 8 -f roary_results gff_files/*.gff
