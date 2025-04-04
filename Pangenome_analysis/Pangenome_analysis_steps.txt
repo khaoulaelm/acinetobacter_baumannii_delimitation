@@ -1,3 +1,38 @@
 # Pangenome analysis steps
 
 ## Step 1: Annotating genomes with Prokka
+
+### Create a directory for Prokka results
+mkdir -p prokka_results
+
+### Loop through all FASTA files in the genomes directory and run Prokka annotation
+for file in ~/Desktop/article1/genomes/*.fasta; do
+    base=$(basename "$file" .fasta)  # Get the base name of the file (without the .fasta extension)
+    prokka --outdir prokka_results/$base --prefix $base --cpus 4 "$file"  # Running Prokka annotation
+done
+
+## Step 2: Prepare GFF files for Roary 
+
+### Create a directory for GFF files
+mkdir -p gff_files
+
+### Copy all GFF files from Prokka results to a single directory
+cp prokka_results/*/*.gff gff_files/
+
+## Step 3: Running Roary for pangenome analysis
+
+### Create output directory for Roary results
+mkdir -p roary_results
+
+### Run Roary with MAFFT for alignment and with parallel processing (8 CPUs)
+roary -e --mafft -p 8 -f roary_results gff_files/*.gff
+
+## Step 4: Create the phylogenetic tree with FastTree
+
+### Run FastTree to generate the phylogenetic tree in Newick format
+FastTree -nt roary_results/core_gene_alignment.aln > tree.newick
+
+## Step 5: Visualizing Roary results with Python Plot
+
+### Use Python script to generate visualizations of gene presence-absence and the tree
+python3 roary_plots.py --labels roary_results/tree.newick roary_results/gene_presence_absence.csv
