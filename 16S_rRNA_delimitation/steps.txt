@@ -1,1 +1,69 @@
+# 16S rRNA delimitation steps
 
+### Step 1: Organizing the 16S rRNA sequences
+
+In this step, we will collect all the 16S rRNA sequences and rename them for traceability purposes. Each sequence will be assigned a unique identifier based on the strain name.
+
+#### Scripts:
+
+''' bash
+#!/bin/bash
+
+# Create a directory for reformatted 16S sequences
+mkdir -p 16S_all_reformatted
+
+# Loop through all FASTA files in the 16S_seq directory
+for file in 16S_seq/*.fasta; do
+    base=$(basename "$file" .fasta)  # Get the strain name
+
+    # Renaming the 16S sequences and outputting them into the 16S_all_reformatted folder
+    awk -v strain="$base" '
+        /^>/ {++i; print ">"strain"_copy"i}
+        !/^>/ {print}
+    ' "$file" > "16S_all_reformatted/${base}.fasta"
+done
+'''
+
+### Step 2: Concatenate all reformatted sequences
+After renaming all the sequences, we need to concatenate them into a single file for alignment and further analysis.
+
+#### Script:
+
+''' bash
+#!/bin/bash
+cat 16S_all_reformatted/*.fasta > 16S_all_final.fasta
+'''
+
+### Step 3: Align all sequences with MAFFT
+
+Now that the sequences are in a single file, we will align them using MAFFT to ensure the sequences are comparable for the delimitation process.
+
+#### Script:
+#!/bin/bash
+mafft --auto 16S_all_final.fasta > 16S_all_aligned.fasta
+'''
+
+### Step 4: Run ABGD for delimitation
+
+With the aligned sequences, we can now run ABGD to perform the delimitation of species.
+
+#### Command:
+
+'''bash
+./abgd -a -o ~/Desktop/article1/abgd_output_all/ -d JC69 ~/Desktop/article1/16S_all_aligned.fasta
+'''
+
+### Step 5: Run ASAP for delimitation
+
+Finally, we run ASAP for further species delimitation using the same aligned sequences.
+
+#### Command:
+
+'''bash
+./asap -a -o ~/Desktop/article1/16s_analysis/asap_output_nographics ~/Desktop/article1/16s_analysis/16S_all_aligned.fasta
+'''
+
+## Additional Notes:
+
+- Directory Setup: Ensure that your 16S_seq folder contains all the FASTA files for the 16S rRNA sequences.
+- Dependencies: You will need to have MAFFT, ABGD, and ASAP installed and accessible in your environment. 
