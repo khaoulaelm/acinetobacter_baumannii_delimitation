@@ -1,0 +1,3 @@
+# Pangenome analysis steps
+
+## Step 1: Annotating genomes with Prokka
