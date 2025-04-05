@@ -1,0 +1,15 @@
+# Core gene alignment delimitation steps
+
+We use the core gene alignment generated from roary results
+
+### Step 1: Run ABGD 
+
+```bash
+./abgd -a -o ~/Desktop/article1/abgd_core_output/ -d JC69 ~/Desktop/article1/test2/roary2/core_gene_alignment.aln
+```
+
+### Step 1: Run ASAP
+
+```bash
+./asap -a -o ~/Desktop/article1/asap_core_output ~/Desktop/article1/test2/roary2/core_gene_alignment.aln
+```
