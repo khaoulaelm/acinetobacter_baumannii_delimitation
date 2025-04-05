@@ -1,6 +1,6 @@
 # Core gene alignment delimitation steps
 
-We use the core gene alignment generated from roary results
+We use the core gene alignment generated from Roary results.
 
 ### Step 1: Run ABGD 
 
