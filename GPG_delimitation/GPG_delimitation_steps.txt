@@ -33,7 +33,7 @@ For each gene, we generate a matrix where:
 For ABGD: Run the abgd_partitions.py script.
 For ASAP: Run the asap_partitions.py script. 
 
-If ABGD or ASAP fails to process a gene, the gene name will be added to the failed_genes.txt file.
+During the analysis, if ABGD or ASAP fails to process a gene, the failed gene name will be added to the failed_genes.txt file. Genes may fail for several reasons, such as poor alignment, insufficient variation, or technical issues with the analysis. By logging them, you can either retry processing with modified parameters or decide to exclude them from further analysis.
 
 ### Step 6: Conspecificity matrix
 
