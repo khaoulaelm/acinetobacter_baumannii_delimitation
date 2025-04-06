@@ -31,7 +31,9 @@ For each gene, we generate a matrix where:
 * 0 represents strains in different groups.
 
 For ABGD: Run the abgd_partitions.py script.
-For ASAP: Run the asap_partitions.py script. The failed genes in this context are the genes that ASAP identified as having all strains grouped into one single group. When creating partition matrices for each gene, for failed genes, the matrix would be filled with 1's because all strains are considered as part of the same group. This means that every pair of strains for those failed genes will be classified as in the same group. For these, run the asap_partitions_failed_genes.py script.
+For ASAP: Run the asap_partitions.py script. 
+
+If ABGD or ASAP fails to process a gene, the gene name will be added to the failed_genes.txt file.
 
 ### Step 6: Conspecificity matrix
 
