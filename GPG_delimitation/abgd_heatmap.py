@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import os
 
 # Define input and output paths
-matrix_path = os.path.expanduser("~/Desktop/article1/GPG_analysis/ABGD_analysis/conspecificity_matrix.csv")
-output_path = os.path.expanduser("~/Desktop/article1/GPG_analysis/ABGD_analysis/ABGD_conspecificity_heatmap_improved.png")
+matrix_path = os.path.expanduser("~/conspecificity_matrix.csv")
+output_path = os.path.expanduser("~/ABGD_conspecificity_heatmap_improved.png")
 
 # Load matrix
 df = pd.read_csv(matrix_path, index_col=0)
