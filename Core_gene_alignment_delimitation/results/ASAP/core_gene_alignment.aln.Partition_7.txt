@@ -1,0 +1,31 @@
+Partition 7 
+Asap-Score: 15.500000
+Proba: 3.004772e-03
+Nb subsets with recursion:25 (without recursion: 24)
+------------------------------------------------------------
+
+Subset[ 1 ] n: 6 ;id: AB14-VUB AB188-VUB AB187-VUB AB20-VUB AB9-VUB AB176-VUB 
+Subset[ 2 ] n: 1 ;id: AB16-VUB 
+Subset[ 3 ] n: 1 ;id: AB167-VUB 
+Subset[ 4 ] n: 1 ;id: AB169-VUB 
+Subset[ 5 ] n: 3 ;id: AB227-VUB AB229-VUB AB232-VUB 
+Subset[ 6 ] n: 3 ;id: AB171-VUB AB172-VUB AB3-VUB 
+Subset[ 7 ] n: 12 ;id: AB173-VUB AB180-VUB AB214-VUB AB233-VUB AB183-VUB AB217-VUB AB224-VUB AB226-VUB AB175-VUB AB212-VUB AB193-VUB AB213-VUB 
+Subset[ 8 ] n: 1 ;id: AB177-VUB 
+Subset[ 9 ] n: 1 ;id: AB179-VUB 
+Subset[ 10 ] n: 1 ;id: AB181-VUB 
+Subset[ 11 ] n: 1 ;id: AB186-VUB 
+Subset[ 12 ] n: 2 ;id: AB189-VUB AB222-VUB 
+Subset[ 13 ] n: 1 ;id: AB194-VUB 
+Subset[ 14 ] n: 1 ;id: AB21-VUB 
+Subset[ 15 ] n: 2 ;id: AB216-VUB AB219-VUB 
+Subset[ 16 ] n: 1 ;id: AB220-VUB 
+Subset[ 17 ] n: 1 ;id: AB231-VUB 
+Subset[ 18 ] n: 1 ;id: AB32-VUB 
+Subset[ 19 ] n: 1 ;id: AB36-VUB 
+Subset[ 20 ] n: 1 ;id: AB39-VUB 
+Subset[ 21 ] n: 1 ;id: AB40-VUB 
+Subset[ 22 ] n: 1 ;id: AB5075-VUB 
+Subset[ 23 ] n: 1 ;id: ATCC17978-VUB 
+Subset[ 24 ] n: 1 ;id: ATCC19606-VUB 
+Subset[ 25 ] n: 1 ;id: DSM30011-VUB 
