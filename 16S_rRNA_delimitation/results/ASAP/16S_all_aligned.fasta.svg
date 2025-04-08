@@ -1,0 +1,971 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3640" height="6300" >
+<rect x="26918" y="20" width="241184" height="540" style="fill:lightblue;stroke:lightblue;" />
+ <line x1="120" y1="20" x2="120" y2="560" style="stroke:black;stroke-width:1" />
+  <text x="120" y="15" style="color:black;font-size :15;font-family = monospace;" >Asap Score</text>
+  <text x="70" y="20" style="color:black;font-size :15;font-family = monospace;" >1.0</text>
+ <line x1="110" y1="20" x2="120" y2="20" style="stroke:black;stroke-width:1" />
+  <text x="70" y="74" style="color:black;font-size :15;font-family = monospace;" >1.6</text>
+ <line x1="110" y1="74" x2="120" y2="74" style="stroke:black;stroke-width:1" />
+  <text x="70" y="128" style="color:black;font-size :15;font-family = monospace;" >2.2</text>
+ <line x1="110" y1="128" x2="120" y2="128" style="stroke:black;stroke-width:1" />
+  <text x="70" y="182" style="color:black;font-size :15;font-family = monospace;" >2.8</text>
+ <line x1="110" y1="182" x2="120" y2="182" style="stroke:black;stroke-width:1" />
+  <text x="70" y="236" style="color:black;font-size :15;font-family = monospace;" >3.4</text>
+ <line x1="110" y1="236" x2="120" y2="236" style="stroke:black;stroke-width:1" />
+  <text x="70" y="290" style="color:black;font-size :15;font-family = monospace;" >4.0</text>
+ <line x1="110" y1="290" x2="120" y2="290" style="stroke:black;stroke-width:1" />
+  <text x="70" y="344" style="color:black;font-size :15;font-family = monospace;" >4.6</text>
+ <line x1="110" y1="344" x2="120" y2="344" style="stroke:black;stroke-width:1" />
+  <text x="70" y="398" style="color:black;font-size :15;font-family = monospace;" >5.2</text>
+ <line x1="110" y1="398" x2="120" y2="398" style="stroke:black;stroke-width:1" />
+  <text x="70" y="452" style="color:black;font-size :15;font-family = monospace;" >5.8</text>
+ <line x1="110" y1="452" x2="120" y2="452" style="stroke:black;stroke-width:1" />
+  <text x="70" y="506" style="color:black;font-size :15;font-family = monospace;" >6.4</text>
+ <line x1="110" y1="506" x2="120" y2="506" style="stroke:black;stroke-width:1" />
+  <text x="1873" y="575" style="color:black;font-size :15;font-family = monospace;" >0.000</text>
+ <line x1="1873" y1="560" x2="1873" y2="570" style="stroke:black;stroke-width:1" />
+  <text x="3626" y="575" style="color:black;font-size :15;font-family = monospace;" >0.001</text>
+ <line x1="3626" y1="560" x2="3626" y2="570" style="stroke:black;stroke-width:1" />
+  <text x="5379" y="575" style="color:black;font-size :15;font-family = monospace;" >0.001</text>
+ <line x1="5379" y1="560" x2="5379" y2="570" style="stroke:black;stroke-width:1" />
+  <text x="7132" y="575" style="color:black;font-size :15;font-family = monospace;" >0.001</text>
+ <line x1="7132" y1="560" x2="7132" y2="570" style="stroke:black;stroke-width:1" />
+  <text x="8885" y="575" style="color:black;font-size :15;font-family = monospace;" >0.002</text>
+ <line x1="8885" y1="560" x2="8885" y2="570" style="stroke:black;stroke-width:1" />
+  <text x="10638" y="575" style="color:black;font-size :15;font-family = monospace;" >0.002</text>
+ <line x1="10638" y1="560" x2="10638" y2="570" style="stroke:black;stroke-width:1" />
+  <text x="12391" y="575" style="color:black;font-size :15;font-family = monospace;" >0.002</text>
+ <line x1="12391" y1="560" x2="12391" y2="570" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="560" x2="12391" y2="560" style="stroke:black;stroke-width:1" />
+  <text x="12371" y="572" style="color:black;font-size :10;font-family = monospace;" >dist</text>
+    <line   visibility="hidden"  id="bestline1"   x1="7113" y1="155" x2="7113" y2="6285" stroke="green" />
+    <line   visibility="hidden"  id="bestlinejump1"    x1="5366" y1="155" x2="5366" y2="6285" stroke="red" stroke-dasharray="5, 10"/>
+ <circle id="bestScore4" onmousemove="ShowTooltip(evt, 'inter/intra: 9.32e-08 Nb species: 2 / 2 [1 subsets] dist:0.001305')"   onmouseout="HideTooltip(evt)" onclick="circle_click(1);" cx="7113" cy="155" r="7" style="fill:#FFFF00;stroke:black;" />
+ <line x1="7113" y1="155" x2="3619" y2="290" style="stroke:black;stroke-width:1" />
+    <line   visibility="hidden"  id="bestline4"   x1="3619" y1="290" x2="3619" y2="6285" stroke="green" />
+    <line   visibility="hidden"  id="bestlinejump4"    x1="3618" y1="290" x2="3618" y2="6285" stroke="red" stroke-dasharray="5, 10"/>
+ <circle id="bestScore3" onmousemove="ShowTooltip(evt, 'inter/intra: 8.10e-08 Nb species: 6 / 6 [2 subsets] dist:0.000653')"   onmouseout="HideTooltip(evt)" onclick="circle_click(4);" cx="3619" cy="290" r="7" style="fill:#FFFF00;stroke:black;" />
+ <line x1="3619" y1="290" x2="3617" y2="290" style="stroke:black;stroke-width:1" />
+    <line   visibility="hidden"  id="bestline3"   x1="3617" y1="290" x2="3617" y2="6285" stroke="green" />
+    <line   visibility="hidden"  id="bestlinejump3"    x1="3616" y1="290" x2="3616" y2="6285" stroke="red" stroke-dasharray="5, 10"/>
+ <circle id="bestScore2" onmousemove="ShowTooltip(evt, 'inter/intra: 8.10e-08 Nb species: 18 / 18 [6 subsets] dist:0.000653')"   onmouseout="HideTooltip(evt)" onclick="circle_click(3);" cx="3617" cy="290" r="7" style="fill:#FFFF00;stroke:black;" />
+ <line x1="3617" y1="290" x2="3615" y2="290" style="stroke:black;stroke-width:1" />
+    <line   visibility="hidden"  id="bestline2"   x1="3615" y1="290" x2="3615" y2="6285" stroke="green" />
+    <line   visibility="hidden"  id="bestlinejump2"    x1="1867" y1="290" x2="1867" y2="6285" stroke="red" stroke-dasharray="5, 10"/>
+ <circle id="bestScore1" onmousemove="ShowTooltip(evt, 'inter/intra: 4.12e-08 Nb species: 20 / 20 [18 subsets] dist:0.000652')"   onmouseout="HideTooltip(evt)" onclick="circle_click(2);" cx="3615" cy="290" r="7" style="fill:#FFAF00;stroke:black;" />
+ <line x1="3615" y1="290" x2="120" y2="425" style="stroke:black;stroke-width:1" />
+    <line   visibility="hidden"  id="bestline5"   x1="120" y1="425" x2="120" y2="6285" stroke="green" />
+    <line   visibility="hidden"  id="bestlinejump5"    x1="120" y1="425" x2="120" y2="6285" stroke="red" stroke-dasharray="5, 10"/>
+ <circle id="bestScore0" onmousemove="ShowTooltip(evt, 'inter/intra: 4.19e-08 Nb species: 282 / 282 [20 subsets] dist:0.000000')"   onmouseout="HideTooltip(evt)" onclick="circle_click(5);" cx="120" cy="425" r="7" style="fill:#FFFF00;stroke:black;" />
+  <text x="10" y="622" style="color:black;font-size :12;font-family = monospace;" >Legend:</text>
+ <circle cx="80" cy="610" r="6" fill="#320000" />
+  <text x="75" y="625" style="color:black;font-size :12;font-family = monospace;" >&lt;0.001</text>
+ <circle cx="142" cy="610" r="6" fill="#F00000" />
+  <text x="137" y="625" style="color:black;font-size :12;font-family = monospace;" >&lt;0.05</text>
+ <circle cx="204" cy="610" r="6" fill="#FFAF00" />
+  <text x="199" y="625" style="color:black;font-size :12;font-family = monospace;" >&lt;0.1</text>
+ <circle cx="266" cy="610" r="6" fill="#FFFF00" />
+  <text x="261" y="625" style="color:black;font-size :12;font-family = monospace;" >&gt;0.1</text>
+ <circle cx="328" cy="610" r="6" fill="#CCCCCC" />
+  <text x="323" y="625" style="color:black;font-size :12;font-family = monospace;" >N/A</text>
+ <line x1="400" y1="625" x2="410" y2="625" style="stroke:#ffb83b;stroke-width:1" />
+ <line x1="120" y1="660" x2="120" y2="660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="680" x2="120" y2="680" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="700" x2="120" y2="700" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="720" x2="120" y2="720" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="740" x2="120" y2="740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="760" x2="120" y2="760" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="780" x2="120" y2="780" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="800" x2="120" y2="800" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="820" x2="120" y2="820" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="840" x2="120" y2="840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="860" x2="120" y2="860" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="880" x2="120" y2="880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="900" x2="120" y2="900" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="920" x2="120" y2="920" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="940" x2="120" y2="940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="960" x2="120" y2="960" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="980" x2="120" y2="980" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1000" x2="120" y2="1000" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1020" x2="120" y2="1020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1040" x2="120" y2="1040" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1060" x2="120" y2="1060" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1080" x2="120" y2="1080" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1100" x2="120" y2="1100" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1120" x2="120" y2="1120" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1140" x2="120" y2="1140" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1160" x2="120" y2="1160" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1180" x2="120" y2="1180" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1200" x2="120" y2="1200" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1220" x2="120" y2="1220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1240" x2="120" y2="1240" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1260" x2="120" y2="1260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1280" x2="120" y2="1280" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1300" x2="120" y2="1300" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1320" x2="120" y2="1320" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1340" x2="120" y2="1340" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1360" x2="120" y2="1360" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1380" x2="120" y2="1380" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1400" x2="120" y2="1400" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1420" x2="120" y2="1420" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1440" x2="120" y2="1440" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1460" x2="120" y2="1460" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1480" x2="120" y2="1480" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1500" x2="120" y2="1500" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1520" x2="120" y2="1520" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1540" x2="120" y2="1540" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1560" x2="120" y2="1560" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1580" x2="120" y2="1580" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1600" x2="120" y2="1600" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1620" x2="120" y2="1620" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1640" x2="120" y2="1640" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1660" x2="120" y2="1660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1680" x2="120" y2="1680" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1700" x2="120" y2="1700" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1720" x2="120" y2="1720" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1740" x2="120" y2="1740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1760" x2="120" y2="1760" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1780" x2="120" y2="1780" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1800" x2="120" y2="1800" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1820" x2="120" y2="1820" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1840" x2="120" y2="1840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1860" x2="120" y2="1860" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1880" x2="120" y2="1880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1900" x2="120" y2="1900" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1920" x2="120" y2="1920" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1940" x2="120" y2="1940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1960" x2="120" y2="1960" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1980" x2="120" y2="1980" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2000" x2="120" y2="2000" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2020" x2="120" y2="2020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2040" x2="120" y2="2040" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2060" x2="120" y2="2060" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2080" x2="120" y2="2080" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2100" x2="120" y2="2100" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2120" x2="120" y2="2120" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2140" x2="120" y2="2140" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2160" x2="120" y2="2160" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2180" x2="120" y2="2180" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2200" x2="120" y2="2200" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2220" x2="120" y2="2220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2240" x2="120" y2="2240" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2260" x2="120" y2="2260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="660" x2="120" y2="2260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5520" x2="120" y2="5520" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5540" x2="120" y2="5540" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5560" x2="120" y2="5560" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5580" x2="120" y2="5580" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5600" x2="120" y2="5600" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5620" x2="120" y2="5620" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5640" x2="120" y2="5640" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5660" x2="120" y2="5660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5520" x2="120" y2="5660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2380" x2="120" y2="2380" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2400" x2="120" y2="2400" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2420" x2="120" y2="2420" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2440" x2="120" y2="2440" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2460" x2="120" y2="2460" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2480" x2="120" y2="2480" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2500" x2="120" y2="2500" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2520" x2="120" y2="2520" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2540" x2="120" y2="2540" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2560" x2="120" y2="2560" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2580" x2="120" y2="2580" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2600" x2="120" y2="2600" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2620" x2="120" y2="2620" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2640" x2="120" y2="2640" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2660" x2="120" y2="2660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2680" x2="120" y2="2680" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2700" x2="120" y2="2700" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2720" x2="120" y2="2720" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2740" x2="120" y2="2740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2760" x2="120" y2="2760" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2780" x2="120" y2="2780" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2800" x2="120" y2="2800" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2820" x2="120" y2="2820" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2840" x2="120" y2="2840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2860" x2="120" y2="2860" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2880" x2="120" y2="2880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2900" x2="120" y2="2900" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2920" x2="120" y2="2920" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2940" x2="120" y2="2940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2960" x2="120" y2="2960" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2980" x2="120" y2="2980" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3000" x2="120" y2="3000" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3020" x2="120" y2="3020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3040" x2="120" y2="3040" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3060" x2="120" y2="3060" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3080" x2="120" y2="3080" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3100" x2="120" y2="3100" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3120" x2="120" y2="3120" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3140" x2="120" y2="3140" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3160" x2="120" y2="3160" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3180" x2="120" y2="3180" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3200" x2="120" y2="3200" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3220" x2="120" y2="3220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3240" x2="120" y2="3240" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3260" x2="120" y2="3260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3280" x2="120" y2="3280" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3300" x2="120" y2="3300" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3320" x2="120" y2="3320" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3340" x2="120" y2="3340" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3360" x2="120" y2="3360" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3380" x2="120" y2="3380" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3400" x2="120" y2="3400" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3420" x2="120" y2="3420" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3440" x2="120" y2="3440" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3460" x2="120" y2="3460" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3480" x2="120" y2="3480" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3500" x2="120" y2="3500" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3520" x2="120" y2="3520" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3540" x2="120" y2="3540" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3560" x2="120" y2="3560" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3580" x2="120" y2="3580" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3600" x2="120" y2="3600" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3620" x2="120" y2="3620" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3640" x2="120" y2="3640" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3660" x2="120" y2="3660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3680" x2="120" y2="3680" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3700" x2="120" y2="3700" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3720" x2="120" y2="3720" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3740" x2="120" y2="3740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3760" x2="120" y2="3760" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3780" x2="120" y2="3780" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3800" x2="120" y2="3800" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3820" x2="120" y2="3820" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3840" x2="120" y2="3840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3860" x2="120" y2="3860" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3880" x2="120" y2="3880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3900" x2="120" y2="3900" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3920" x2="120" y2="3920" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3940" x2="120" y2="3940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3960" x2="120" y2="3960" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3980" x2="120" y2="3980" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4000" x2="120" y2="4000" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4020" x2="120" y2="4020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4040" x2="120" y2="4040" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4060" x2="120" y2="4060" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4080" x2="120" y2="4080" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4100" x2="120" y2="4100" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4120" x2="120" y2="4120" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4140" x2="120" y2="4140" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4160" x2="120" y2="4160" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4180" x2="120" y2="4180" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4200" x2="120" y2="4200" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4220" x2="120" y2="4220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4240" x2="120" y2="4240" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4260" x2="120" y2="4260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4280" x2="120" y2="4280" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4300" x2="120" y2="4300" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4320" x2="120" y2="4320" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4340" x2="120" y2="4340" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4360" x2="120" y2="4360" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4380" x2="120" y2="4380" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4400" x2="120" y2="4400" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4420" x2="120" y2="4420" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4440" x2="120" y2="4440" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4460" x2="120" y2="4460" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4480" x2="120" y2="4480" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4500" x2="120" y2="4500" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4520" x2="120" y2="4520" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4540" x2="120" y2="4540" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4560" x2="120" y2="4560" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4580" x2="120" y2="4580" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4600" x2="120" y2="4600" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4620" x2="120" y2="4620" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4640" x2="120" y2="4640" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4660" x2="120" y2="4660" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4680" x2="120" y2="4680" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4700" x2="120" y2="4700" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4720" x2="120" y2="4720" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4740" x2="120" y2="4740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4760" x2="120" y2="4760" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4780" x2="120" y2="4780" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4800" x2="120" y2="4800" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4820" x2="120" y2="4820" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4840" x2="120" y2="4840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4860" x2="120" y2="4860" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4880" x2="120" y2="4880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4900" x2="120" y2="4900" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4920" x2="120" y2="4920" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4940" x2="120" y2="4940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4960" x2="120" y2="4960" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="4980" x2="120" y2="4980" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5000" x2="120" y2="5000" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5020" x2="120" y2="5020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5040" x2="120" y2="5040" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5060" x2="120" y2="5060" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5080" x2="120" y2="5080" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5100" x2="120" y2="5100" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5120" x2="120" y2="5120" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5140" x2="120" y2="5140" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5160" x2="120" y2="5160" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5180" x2="120" y2="5180" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5200" x2="120" y2="5200" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5220" x2="120" y2="5220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5240" x2="120" y2="5240" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5260" x2="120" y2="5260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5280" x2="120" y2="5280" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5300" x2="120" y2="5300" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5320" x2="120" y2="5320" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5340" x2="120" y2="5340" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5360" x2="120" y2="5360" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5380" x2="120" y2="5380" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5400" x2="120" y2="5400" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5420" x2="120" y2="5420" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5440" x2="120" y2="5440" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5460" x2="120" y2="5460" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5480" x2="120" y2="5480" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5500" x2="120" y2="5500" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2380" x2="120" y2="5500" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5820" x2="120" y2="5820" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5840" x2="120" y2="5840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5820" x2="120" y2="5840" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2280" x2="120" y2="2280" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2300" x2="120" y2="2300" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2320" x2="120" y2="2320" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2340" x2="120" y2="2340" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2360" x2="120" y2="2360" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2280" x2="120" y2="2360" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5960" x2="120" y2="5960" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5980" x2="120" y2="5980" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6000" x2="120" y2="6000" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6020" x2="120" y2="6020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5960" x2="120" y2="6020" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5680" x2="120" y2="5680" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5700" x2="120" y2="5700" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5720" x2="120" y2="5720" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5740" x2="120" y2="5740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5680" x2="120" y2="5740" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6120" x2="120" y2="6120" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6140" x2="120" y2="6140" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6160" x2="120" y2="6160" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6180" x2="120" y2="6180" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6200" x2="120" y2="6200" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6220" x2="120" y2="6220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6120" x2="120" y2="6220" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6240" x2="120" y2="6240" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6260" x2="120" y2="6260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6240" x2="120" y2="6260" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5860" x2="120" y2="5860" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5880" x2="120" y2="5880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5860" x2="120" y2="5880" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5920" x2="120" y2="5920" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5940" x2="120" y2="5940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5920" x2="120" y2="5940" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="1460" x2="817" y2="1460" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="2320" x2="817" y2="2320" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="3940" x2="817" y2="3940" style="stroke:black;stroke-width:1" />
+ <line x1="817" y1="1460" x2="817" y2="3940" style="stroke:black;stroke-width:1" />
+ <line x1="817" y1="2573" x2="818" y2="2573" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5590" x2="818" y2="5590" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5710" x2="818" y2="5710" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5760" x2="818" y2="5760" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5780" x2="818" y2="5780" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5800" x2="818" y2="5800" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5830" x2="818" y2="5830" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5870" x2="818" y2="5870" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5900" x2="818" y2="5900" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5930" x2="818" y2="5930" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="5990" x2="818" y2="5990" style="stroke:black;stroke-width:1" />
+ <line x1="818" y1="2573" x2="818" y2="5990" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6170" x2="818" y2="6170" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6250" x2="818" y2="6250" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6280" x2="818" y2="6280" style="stroke:black;stroke-width:1" />
+ <line x1="818" y1="6170" x2="818" y2="6280" style="stroke:black;stroke-width:1" />
+ <line x1="818" y1="5521" x2="818" y2="5521" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6040" x2="818" y2="6040" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6060" x2="818" y2="6060" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6080" x2="818" y2="6080" style="stroke:black;stroke-width:1" />
+ <line x1="120" y1="6100" x2="818" y2="6100" style="stroke:black;stroke-width:1" />
+ <line x1="818" y1="5521" x2="818" y2="6100" style="stroke:black;stroke-width:1" />
+ <line x1="818" y1="5960" x2="1516" y2="5960" style="stroke:black;stroke-width:1" />
+ <line x1="818" y1="6233" x2="1516" y2="6233" style="stroke:black;stroke-width:1" />
+ <line x1="1516" y1="5960" x2="1516" y2="6233" style="stroke:black;stroke-width:1" />
+ <line x1="1516" y1="6096" x2="2366" y2="6096" style="stroke:black;stroke-width:1" />
+  <text x="0" y="660" id="specie_0" onmousemove="ShowTooltip(evt, 'AB14-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB14-VUB_cop</text>
+ <line x1="116" y1="660" x2="120" y2="660" style="stroke:black;stroke-width:1" />
+  <text x="0" y="680" id="specie_1" onmousemove="ShowTooltip(evt, 'AB14-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB14-VUB_cop</text>
+ <line x1="116" y1="680" x2="120" y2="680" style="stroke:black;stroke-width:1" />
+  <text x="0" y="700" id="specie_2" onmousemove="ShowTooltip(evt, 'AB14-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB14-VUB_cop</text>
+ <line x1="116" y1="700" x2="120" y2="700" style="stroke:black;stroke-width:1" />
+  <text x="0" y="720" id="specie_3" onmousemove="ShowTooltip(evt, 'AB14-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB14-VUB_cop</text>
+ <line x1="116" y1="720" x2="120" y2="720" style="stroke:black;stroke-width:1" />
+  <text x="0" y="740" id="specie_4" onmousemove="ShowTooltip(evt, 'AB14-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB14-VUB_cop</text>
+ <line x1="116" y1="740" x2="120" y2="740" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5520" id="specie_243" onmousemove="ShowTooltip(evt, 'AB14-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB14-VUB_cop</text>
+ <line x1="116" y1="5520" x2="120" y2="5520" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2380" id="specie_86" onmousemove="ShowTooltip(evt, 'AB167-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB167-VUB_co</text>
+ <line x1="116" y1="2380" x2="120" y2="2380" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2400" id="specie_87" onmousemove="ShowTooltip(evt, 'AB167-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB167-VUB_co</text>
+ <line x1="116" y1="2400" x2="120" y2="2400" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5800" id="specie_257" onmousemove="ShowTooltip(evt, 'AB167-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB167-VUB_co</text>
+ <line x1="116" y1="5800" x2="120" y2="5800" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2420" id="specie_88" onmousemove="ShowTooltip(evt, 'AB167-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB167-VUB_co</text>
+ <line x1="116" y1="2420" x2="120" y2="2420" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2440" id="specie_89" onmousemove="ShowTooltip(evt, 'AB167-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB167-VUB_co</text>
+ <line x1="116" y1="2440" x2="120" y2="2440" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2460" id="specie_90" onmousemove="ShowTooltip(evt, 'AB167-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB167-VUB_co</text>
+ <line x1="116" y1="2460" x2="120" y2="2460" style="stroke:black;stroke-width:1" />
+  <text x="0" y="760" id="specie_5" onmousemove="ShowTooltip(evt, 'AB169-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB169-VUB_co</text>
+ <line x1="116" y1="760" x2="120" y2="760" style="stroke:black;stroke-width:1" />
+  <text x="0" y="780" id="specie_6" onmousemove="ShowTooltip(evt, 'AB169-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB169-VUB_co</text>
+ <line x1="116" y1="780" x2="120" y2="780" style="stroke:black;stroke-width:1" />
+  <text x="0" y="800" id="specie_7" onmousemove="ShowTooltip(evt, 'AB169-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB169-VUB_co</text>
+ <line x1="116" y1="800" x2="120" y2="800" style="stroke:black;stroke-width:1" />
+  <text x="0" y="820" id="specie_8" onmousemove="ShowTooltip(evt, 'AB169-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB169-VUB_co</text>
+ <line x1="116" y1="820" x2="120" y2="820" style="stroke:black;stroke-width:1" />
+  <text x="0" y="840" id="specie_9" onmousemove="ShowTooltip(evt, 'AB169-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB169-VUB_co</text>
+ <line x1="116" y1="840" x2="120" y2="840" style="stroke:black;stroke-width:1" />
+  <text x="0" y="860" id="specie_10" onmousemove="ShowTooltip(evt, 'AB169-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB169-VUB_co</text>
+ <line x1="116" y1="860" x2="120" y2="860" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5820" id="specie_258" onmousemove="ShowTooltip(evt, 'AB16-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB16-VUB_cop</text>
+ <line x1="116" y1="5820" x2="120" y2="5820" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2480" id="specie_91" onmousemove="ShowTooltip(evt, 'AB16-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB16-VUB_cop</text>
+ <line x1="116" y1="2480" x2="120" y2="2480" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2500" id="specie_92" onmousemove="ShowTooltip(evt, 'AB16-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB16-VUB_cop</text>
+ <line x1="116" y1="2500" x2="120" y2="2500" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2520" id="specie_93" onmousemove="ShowTooltip(evt, 'AB16-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB16-VUB_cop</text>
+ <line x1="116" y1="2520" x2="120" y2="2520" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5840" id="specie_259" onmousemove="ShowTooltip(evt, 'AB16-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB16-VUB_cop</text>
+ <line x1="116" y1="5840" x2="120" y2="5840" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2540" id="specie_94" onmousemove="ShowTooltip(evt, 'AB16-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB16-VUB_cop</text>
+ <line x1="116" y1="2540" x2="120" y2="2540" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2560" id="specie_95" onmousemove="ShowTooltip(evt, 'AB171-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB171-VUB_co</text>
+ <line x1="116" y1="2560" x2="120" y2="2560" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2580" id="specie_96" onmousemove="ShowTooltip(evt, 'AB171-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB171-VUB_co</text>
+ <line x1="116" y1="2580" x2="120" y2="2580" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2600" id="specie_97" onmousemove="ShowTooltip(evt, 'AB171-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB171-VUB_co</text>
+ <line x1="116" y1="2600" x2="120" y2="2600" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2620" id="specie_98" onmousemove="ShowTooltip(evt, 'AB171-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB171-VUB_co</text>
+ <line x1="116" y1="2620" x2="120" y2="2620" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2280" id="specie_81" onmousemove="ShowTooltip(evt, 'AB171-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB171-VUB_co</text>
+ <line x1="116" y1="2280" x2="120" y2="2280" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5960" id="specie_265" onmousemove="ShowTooltip(evt, 'AB171-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB171-VUB_co</text>
+ <line x1="116" y1="5960" x2="120" y2="5960" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2640" id="specie_99" onmousemove="ShowTooltip(evt, 'AB172-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB172-VUB_co</text>
+ <line x1="116" y1="2640" x2="120" y2="2640" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2660" id="specie_100" onmousemove="ShowTooltip(evt, 'AB172-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB172-VUB_co</text>
+ <line x1="116" y1="2660" x2="120" y2="2660" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2680" id="specie_101" onmousemove="ShowTooltip(evt, 'AB172-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB172-VUB_co</text>
+ <line x1="116" y1="2680" x2="120" y2="2680" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2700" id="specie_102" onmousemove="ShowTooltip(evt, 'AB172-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB172-VUB_co</text>
+ <line x1="116" y1="2700" x2="120" y2="2700" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2300" id="specie_82" onmousemove="ShowTooltip(evt, 'AB172-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB172-VUB_co</text>
+ <line x1="116" y1="2300" x2="120" y2="2300" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5980" id="specie_266" onmousemove="ShowTooltip(evt, 'AB172-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB172-VUB_co</text>
+ <line x1="116" y1="5980" x2="120" y2="5980" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2720" id="specie_103" onmousemove="ShowTooltip(evt, 'AB173-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB173-VUB_co</text>
+ <line x1="116" y1="2720" x2="120" y2="2720" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2740" id="specie_104" onmousemove="ShowTooltip(evt, 'AB173-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB173-VUB_co</text>
+ <line x1="116" y1="2740" x2="120" y2="2740" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2760" id="specie_105" onmousemove="ShowTooltip(evt, 'AB173-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB173-VUB_co</text>
+ <line x1="116" y1="2760" x2="120" y2="2760" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2780" id="specie_106" onmousemove="ShowTooltip(evt, 'AB173-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB173-VUB_co</text>
+ <line x1="116" y1="2780" x2="120" y2="2780" style="stroke:black;stroke-width:1" />
+  <text x="0" y="880" id="specie_11" onmousemove="ShowTooltip(evt, 'AB173-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB173-VUB_co</text>
+ <line x1="116" y1="880" x2="120" y2="880" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2800" id="specie_107" onmousemove="ShowTooltip(evt, 'AB173-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB173-VUB_co</text>
+ <line x1="116" y1="2800" x2="120" y2="2800" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2820" id="specie_108" onmousemove="ShowTooltip(evt, 'AB175-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB175-VUB_co</text>
+ <line x1="116" y1="2820" x2="120" y2="2820" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2840" id="specie_109" onmousemove="ShowTooltip(evt, 'AB175-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB175-VUB_co</text>
+ <line x1="116" y1="2840" x2="120" y2="2840" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2860" id="specie_110" onmousemove="ShowTooltip(evt, 'AB175-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB175-VUB_co</text>
+ <line x1="116" y1="2860" x2="120" y2="2860" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2880" id="specie_111" onmousemove="ShowTooltip(evt, 'AB175-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB175-VUB_co</text>
+ <line x1="116" y1="2880" x2="120" y2="2880" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2900" id="specie_112" onmousemove="ShowTooltip(evt, 'AB175-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB175-VUB_co</text>
+ <line x1="116" y1="2900" x2="120" y2="2900" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2920" id="specie_113" onmousemove="ShowTooltip(evt, 'AB175-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB175-VUB_co</text>
+ <line x1="116" y1="2920" x2="120" y2="2920" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5540" id="specie_244" onmousemove="ShowTooltip(evt, 'AB176-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB176-VUB_co</text>
+ <line x1="116" y1="5540" x2="120" y2="5540" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5560" id="specie_245" onmousemove="ShowTooltip(evt, 'AB176-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB176-VUB_co</text>
+ <line x1="116" y1="5560" x2="120" y2="5560" style="stroke:black;stroke-width:1" />
+  <text x="0" y="900" id="specie_12" onmousemove="ShowTooltip(evt, 'AB176-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB176-VUB_co</text>
+ <line x1="116" y1="900" x2="120" y2="900" style="stroke:black;stroke-width:1" />
+  <text x="0" y="920" id="specie_13" onmousemove="ShowTooltip(evt, 'AB176-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB176-VUB_co</text>
+ <line x1="116" y1="920" x2="120" y2="920" style="stroke:black;stroke-width:1" />
+  <text x="0" y="940" id="specie_14" onmousemove="ShowTooltip(evt, 'AB176-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB176-VUB_co</text>
+ <line x1="116" y1="940" x2="120" y2="940" style="stroke:black;stroke-width:1" />
+  <text x="0" y="960" id="specie_15" onmousemove="ShowTooltip(evt, 'AB176-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB176-VUB_co</text>
+ <line x1="116" y1="960" x2="120" y2="960" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5680" id="specie_251" onmousemove="ShowTooltip(evt, 'AB177-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB177-VUB_co</text>
+ <line x1="116" y1="5680" x2="120" y2="5680" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5700" id="specie_252" onmousemove="ShowTooltip(evt, 'AB177-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB177-VUB_co</text>
+ <line x1="116" y1="5700" x2="120" y2="5700" style="stroke:black;stroke-width:1" />
+  <text x="0" y="980" id="specie_16" onmousemove="ShowTooltip(evt, 'AB177-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB177-VUB_co</text>
+ <line x1="116" y1="980" x2="120" y2="980" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1000" id="specie_17" onmousemove="ShowTooltip(evt, 'AB177-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB177-VUB_co</text>
+ <line x1="116" y1="1000" x2="120" y2="1000" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1020" id="specie_18" onmousemove="ShowTooltip(evt, 'AB177-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB177-VUB_co</text>
+ <line x1="116" y1="1020" x2="120" y2="1020" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1040" id="specie_19" onmousemove="ShowTooltip(evt, 'AB177-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB177-VUB_co</text>
+ <line x1="116" y1="1040" x2="120" y2="1040" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6120" id="specie_273" onmousemove="ShowTooltip(evt, 'AB179-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB179-VUB_co</text>
+ <line x1="116" y1="6120" x2="120" y2="6120" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6140" id="specie_274" onmousemove="ShowTooltip(evt, 'AB179-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB179-VUB_co</text>
+ <line x1="116" y1="6140" x2="120" y2="6140" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6160" id="specie_275" onmousemove="ShowTooltip(evt, 'AB179-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB179-VUB_co</text>
+ <line x1="116" y1="6160" x2="120" y2="6160" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6180" id="specie_276" onmousemove="ShowTooltip(evt, 'AB179-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB179-VUB_co</text>
+ <line x1="116" y1="6180" x2="120" y2="6180" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6200" id="specie_277" onmousemove="ShowTooltip(evt, 'AB179-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB179-VUB_co</text>
+ <line x1="116" y1="6200" x2="120" y2="6200" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6220" id="specie_278" onmousemove="ShowTooltip(evt, 'AB179-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB179-VUB_co</text>
+ <line x1="116" y1="6220" x2="120" y2="6220" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2940" id="specie_114" onmousemove="ShowTooltip(evt, 'AB180-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB180-VUB_co</text>
+ <line x1="116" y1="2940" x2="120" y2="2940" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2960" id="specie_115" onmousemove="ShowTooltip(evt, 'AB180-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB180-VUB_co</text>
+ <line x1="116" y1="2960" x2="120" y2="2960" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2980" id="specie_116" onmousemove="ShowTooltip(evt, 'AB180-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB180-VUB_co</text>
+ <line x1="116" y1="2980" x2="120" y2="2980" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3000" id="specie_117" onmousemove="ShowTooltip(evt, 'AB180-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB180-VUB_co</text>
+ <line x1="116" y1="3000" x2="120" y2="3000" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3020" id="specie_118" onmousemove="ShowTooltip(evt, 'AB180-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB180-VUB_co</text>
+ <line x1="116" y1="3020" x2="120" y2="3020" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3040" id="specie_119" onmousemove="ShowTooltip(evt, 'AB180-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB180-VUB_co</text>
+ <line x1="116" y1="3040" x2="120" y2="3040" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6000" id="specie_267" onmousemove="ShowTooltip(evt, 'AB181-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB181-VUB_co</text>
+ <line x1="116" y1="6000" x2="120" y2="6000" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2320" id="specie_83" onmousemove="ShowTooltip(evt, 'AB181-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB181-VUB_co</text>
+ <line x1="116" y1="2320" x2="120" y2="2320" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2340" id="specie_84" onmousemove="ShowTooltip(evt, 'AB181-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB181-VUB_co</text>
+ <line x1="116" y1="2340" x2="120" y2="2340" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3060" id="specie_120" onmousemove="ShowTooltip(evt, 'AB181-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB181-VUB_co</text>
+ <line x1="116" y1="3060" x2="120" y2="3060" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3080" id="specie_121" onmousemove="ShowTooltip(evt, 'AB181-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB181-VUB_co</text>
+ <line x1="116" y1="3080" x2="120" y2="3080" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3100" id="specie_122" onmousemove="ShowTooltip(evt, 'AB181-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB181-VUB_co</text>
+ <line x1="116" y1="3100" x2="120" y2="3100" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3120" id="specie_123" onmousemove="ShowTooltip(evt, 'AB183-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB183-VUB_co</text>
+ <line x1="116" y1="3120" x2="120" y2="3120" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3140" id="specie_124" onmousemove="ShowTooltip(evt, 'AB183-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB183-VUB_co</text>
+ <line x1="116" y1="3140" x2="120" y2="3140" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3160" id="specie_125" onmousemove="ShowTooltip(evt, 'AB183-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB183-VUB_co</text>
+ <line x1="116" y1="3160" x2="120" y2="3160" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3180" id="specie_126" onmousemove="ShowTooltip(evt, 'AB183-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB183-VUB_co</text>
+ <line x1="116" y1="3180" x2="120" y2="3180" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3200" id="specie_127" onmousemove="ShowTooltip(evt, 'AB183-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB183-VUB_co</text>
+ <line x1="116" y1="3200" x2="120" y2="3200" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3220" id="specie_128" onmousemove="ShowTooltip(evt, 'AB183-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB183-VUB_co</text>
+ <line x1="116" y1="3220" x2="120" y2="3220" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1060" id="specie_20" onmousemove="ShowTooltip(evt, 'AB186-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB186-VUB_co</text>
+ <line x1="116" y1="1060" x2="120" y2="1060" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3240" id="specie_129" onmousemove="ShowTooltip(evt, 'AB186-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB186-VUB_co</text>
+ <line x1="116" y1="3240" x2="120" y2="3240" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6240" id="specie_279" onmousemove="ShowTooltip(evt, 'AB186-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB186-VUB_co</text>
+ <line x1="116" y1="6240" x2="120" y2="6240" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1080" id="specie_21" onmousemove="ShowTooltip(evt, 'AB186-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB186-VUB_co</text>
+ <line x1="116" y1="1080" x2="120" y2="1080" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5720" id="specie_253" onmousemove="ShowTooltip(evt, 'AB186-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB186-VUB_co</text>
+ <line x1="116" y1="5720" x2="120" y2="5720" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5740" id="specie_254" onmousemove="ShowTooltip(evt, 'AB186-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB186-VUB_co</text>
+ <line x1="116" y1="5740" x2="120" y2="5740" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1100" id="specie_22" onmousemove="ShowTooltip(evt, 'AB187-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB187-VUB_co</text>
+ <line x1="116" y1="1100" x2="120" y2="1100" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1120" id="specie_23" onmousemove="ShowTooltip(evt, 'AB187-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB187-VUB_co</text>
+ <line x1="116" y1="1120" x2="120" y2="1120" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5580" id="specie_246" onmousemove="ShowTooltip(evt, 'AB187-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB187-VUB_co</text>
+ <line x1="116" y1="5580" x2="120" y2="5580" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1140" id="specie_24" onmousemove="ShowTooltip(evt, 'AB187-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB187-VUB_co</text>
+ <line x1="116" y1="1140" x2="120" y2="1140" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1160" id="specie_25" onmousemove="ShowTooltip(evt, 'AB187-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB187-VUB_co</text>
+ <line x1="116" y1="1160" x2="120" y2="1160" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1180" id="specie_26" onmousemove="ShowTooltip(evt, 'AB187-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB187-VUB_co</text>
+ <line x1="116" y1="1180" x2="120" y2="1180" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1200" id="specie_27" onmousemove="ShowTooltip(evt, 'AB188-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB188-VUB_co</text>
+ <line x1="116" y1="1200" x2="120" y2="1200" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1220" id="specie_28" onmousemove="ShowTooltip(evt, 'AB188-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB188-VUB_co</text>
+ <line x1="116" y1="1220" x2="120" y2="1220" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1240" id="specie_29" onmousemove="ShowTooltip(evt, 'AB188-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB188-VUB_co</text>
+ <line x1="116" y1="1240" x2="120" y2="1240" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1260" id="specie_30" onmousemove="ShowTooltip(evt, 'AB188-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB188-VUB_co</text>
+ <line x1="116" y1="1260" x2="120" y2="1260" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1280" id="specie_31" onmousemove="ShowTooltip(evt, 'AB188-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB188-VUB_co</text>
+ <line x1="116" y1="1280" x2="120" y2="1280" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5600" id="specie_247" onmousemove="ShowTooltip(evt, 'AB188-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB188-VUB_co</text>
+ <line x1="116" y1="5600" x2="120" y2="5600" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3260" id="specie_130" onmousemove="ShowTooltip(evt, 'AB189-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB189-VUB_co</text>
+ <line x1="116" y1="3260" x2="120" y2="3260" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3280" id="specie_131" onmousemove="ShowTooltip(evt, 'AB189-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB189-VUB_co</text>
+ <line x1="116" y1="3280" x2="120" y2="3280" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5860" id="specie_260" onmousemove="ShowTooltip(evt, 'AB189-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB189-VUB_co</text>
+ <line x1="116" y1="5860" x2="120" y2="5860" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3300" id="specie_132" onmousemove="ShowTooltip(evt, 'AB189-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB189-VUB_co</text>
+ <line x1="116" y1="3300" x2="120" y2="3300" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3320" id="specie_133" onmousemove="ShowTooltip(evt, 'AB189-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB189-VUB_co</text>
+ <line x1="116" y1="3320" x2="120" y2="3320" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3340" id="specie_134" onmousemove="ShowTooltip(evt, 'AB189-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB189-VUB_co</text>
+ <line x1="116" y1="3340" x2="120" y2="3340" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3360" id="specie_135" onmousemove="ShowTooltip(evt, 'AB193-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB193-VUB_co</text>
+ <line x1="116" y1="3360" x2="120" y2="3360" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3380" id="specie_136" onmousemove="ShowTooltip(evt, 'AB193-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB193-VUB_co</text>
+ <line x1="116" y1="3380" x2="120" y2="3380" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3400" id="specie_137" onmousemove="ShowTooltip(evt, 'AB193-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB193-VUB_co</text>
+ <line x1="116" y1="3400" x2="120" y2="3400" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5900" id="specie_262" onmousemove="ShowTooltip(evt, 'AB193-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB193-VUB_co</text>
+ <line x1="116" y1="5900" x2="120" y2="5900" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3420" id="specie_138" onmousemove="ShowTooltip(evt, 'AB193-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB193-VUB_co</text>
+ <line x1="116" y1="3420" x2="120" y2="3420" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3440" id="specie_139" onmousemove="ShowTooltip(evt, 'AB193-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB193-VUB_co</text>
+ <line x1="116" y1="3440" x2="120" y2="3440" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3460" id="specie_140" onmousemove="ShowTooltip(evt, 'AB194-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB194-VUB_co</text>
+ <line x1="116" y1="3460" x2="120" y2="3460" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6060" id="specie_270" onmousemove="ShowTooltip(evt, 'AB194-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB194-VUB_co</text>
+ <line x1="116" y1="6060" x2="120" y2="6060" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1300" id="specie_32" onmousemove="ShowTooltip(evt, 'AB194-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB194-VUB_co</text>
+ <line x1="116" y1="1300" x2="120" y2="1300" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3480" id="specie_141" onmousemove="ShowTooltip(evt, 'AB194-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB194-VUB_co</text>
+ <line x1="116" y1="3480" x2="120" y2="3480" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3500" id="specie_142" onmousemove="ShowTooltip(evt, 'AB194-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB194-VUB_co</text>
+ <line x1="116" y1="3500" x2="120" y2="3500" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3520" id="specie_143" onmousemove="ShowTooltip(evt, 'AB194-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB194-VUB_co</text>
+ <line x1="116" y1="3520" x2="120" y2="3520" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5620" id="specie_248" onmousemove="ShowTooltip(evt, 'AB20-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB20-VUB_cop</text>
+ <line x1="116" y1="5620" x2="120" y2="5620" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5640" id="specie_249" onmousemove="ShowTooltip(evt, 'AB20-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB20-VUB_cop</text>
+ <line x1="116" y1="5640" x2="120" y2="5640" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1320" id="specie_33" onmousemove="ShowTooltip(evt, 'AB20-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB20-VUB_cop</text>
+ <line x1="116" y1="1320" x2="120" y2="1320" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1340" id="specie_34" onmousemove="ShowTooltip(evt, 'AB20-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB20-VUB_cop</text>
+ <line x1="116" y1="1340" x2="120" y2="1340" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1360" id="specie_35" onmousemove="ShowTooltip(evt, 'AB20-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB20-VUB_cop</text>
+ <line x1="116" y1="1360" x2="120" y2="1360" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1380" id="specie_36" onmousemove="ShowTooltip(evt, 'AB20-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB20-VUB_cop</text>
+ <line x1="116" y1="1380" x2="120" y2="1380" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3540" id="specie_144" onmousemove="ShowTooltip(evt, 'AB212-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB212-VUB_co</text>
+ <line x1="116" y1="3540" x2="120" y2="3540" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3560" id="specie_145" onmousemove="ShowTooltip(evt, 'AB212-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB212-VUB_co</text>
+ <line x1="116" y1="3560" x2="120" y2="3560" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3580" id="specie_146" onmousemove="ShowTooltip(evt, 'AB212-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB212-VUB_co</text>
+ <line x1="116" y1="3580" x2="120" y2="3580" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3600" id="specie_147" onmousemove="ShowTooltip(evt, 'AB212-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB212-VUB_co</text>
+ <line x1="116" y1="3600" x2="120" y2="3600" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3620" id="specie_148" onmousemove="ShowTooltip(evt, 'AB212-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB212-VUB_co</text>
+ <line x1="116" y1="3620" x2="120" y2="3620" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3640" id="specie_149" onmousemove="ShowTooltip(evt, 'AB212-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB212-VUB_co</text>
+ <line x1="116" y1="3640" x2="120" y2="3640" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3660" id="specie_150" onmousemove="ShowTooltip(evt, 'AB213-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB213-VUB_co</text>
+ <line x1="116" y1="3660" x2="120" y2="3660" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3680" id="specie_151" onmousemove="ShowTooltip(evt, 'AB213-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB213-VUB_co</text>
+ <line x1="116" y1="3680" x2="120" y2="3680" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3700" id="specie_152" onmousemove="ShowTooltip(evt, 'AB213-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB213-VUB_co</text>
+ <line x1="116" y1="3700" x2="120" y2="3700" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3720" id="specie_153" onmousemove="ShowTooltip(evt, 'AB213-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB213-VUB_co</text>
+ <line x1="116" y1="3720" x2="120" y2="3720" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3740" id="specie_154" onmousemove="ShowTooltip(evt, 'AB213-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB213-VUB_co</text>
+ <line x1="116" y1="3740" x2="120" y2="3740" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3760" id="specie_155" onmousemove="ShowTooltip(evt, 'AB213-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB213-VUB_co</text>
+ <line x1="116" y1="3760" x2="120" y2="3760" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3780" id="specie_156" onmousemove="ShowTooltip(evt, 'AB214-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB214-VUB_co</text>
+ <line x1="116" y1="3780" x2="120" y2="3780" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3800" id="specie_157" onmousemove="ShowTooltip(evt, 'AB214-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB214-VUB_co</text>
+ <line x1="116" y1="3800" x2="120" y2="3800" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3820" id="specie_158" onmousemove="ShowTooltip(evt, 'AB214-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB214-VUB_co</text>
+ <line x1="116" y1="3820" x2="120" y2="3820" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3840" id="specie_159" onmousemove="ShowTooltip(evt, 'AB214-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB214-VUB_co</text>
+ <line x1="116" y1="3840" x2="120" y2="3840" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3860" id="specie_160" onmousemove="ShowTooltip(evt, 'AB214-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB214-VUB_co</text>
+ <line x1="116" y1="3860" x2="120" y2="3860" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3880" id="specie_161" onmousemove="ShowTooltip(evt, 'AB214-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB214-VUB_co</text>
+ <line x1="116" y1="3880" x2="120" y2="3880" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3900" id="specie_162" onmousemove="ShowTooltip(evt, 'AB216-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB216-VUB_co</text>
+ <line x1="116" y1="3900" x2="120" y2="3900" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3920" id="specie_163" onmousemove="ShowTooltip(evt, 'AB216-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB216-VUB_co</text>
+ <line x1="116" y1="3920" x2="120" y2="3920" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3940" id="specie_164" onmousemove="ShowTooltip(evt, 'AB216-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB216-VUB_co</text>
+ <line x1="116" y1="3940" x2="120" y2="3940" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1400" id="specie_37" onmousemove="ShowTooltip(evt, 'AB216-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB216-VUB_co</text>
+ <line x1="116" y1="1400" x2="120" y2="1400" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3960" id="specie_165" onmousemove="ShowTooltip(evt, 'AB216-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB216-VUB_co</text>
+ <line x1="116" y1="3960" x2="120" y2="3960" style="stroke:black;stroke-width:1" />
+  <text x="0" y="3980" id="specie_166" onmousemove="ShowTooltip(evt, 'AB216-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB216-VUB_co</text>
+ <line x1="116" y1="3980" x2="120" y2="3980" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4000" id="specie_167" onmousemove="ShowTooltip(evt, 'AB217-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB217-VUB_co</text>
+ <line x1="116" y1="4000" x2="120" y2="4000" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4020" id="specie_168" onmousemove="ShowTooltip(evt, 'AB217-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB217-VUB_co</text>
+ <line x1="116" y1="4020" x2="120" y2="4020" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4040" id="specie_169" onmousemove="ShowTooltip(evt, 'AB217-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB217-VUB_co</text>
+ <line x1="116" y1="4040" x2="120" y2="4040" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4060" id="specie_170" onmousemove="ShowTooltip(evt, 'AB217-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB217-VUB_co</text>
+ <line x1="116" y1="4060" x2="120" y2="4060" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4080" id="specie_171" onmousemove="ShowTooltip(evt, 'AB217-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB217-VUB_co</text>
+ <line x1="116" y1="4080" x2="120" y2="4080" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4100" id="specie_172" onmousemove="ShowTooltip(evt, 'AB217-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB217-VUB_co</text>
+ <line x1="116" y1="4100" x2="120" y2="4100" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4120" id="specie_173" onmousemove="ShowTooltip(evt, 'AB219-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB219-VUB_co</text>
+ <line x1="116" y1="4120" x2="120" y2="4120" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4140" id="specie_174" onmousemove="ShowTooltip(evt, 'AB219-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB219-VUB_co</text>
+ <line x1="116" y1="4140" x2="120" y2="4140" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4160" id="specie_175" onmousemove="ShowTooltip(evt, 'AB219-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB219-VUB_co</text>
+ <line x1="116" y1="4160" x2="120" y2="4160" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4180" id="specie_176" onmousemove="ShowTooltip(evt, 'AB219-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB219-VUB_co</text>
+ <line x1="116" y1="4180" x2="120" y2="4180" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1420" id="specie_38" onmousemove="ShowTooltip(evt, 'AB219-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB219-VUB_co</text>
+ <line x1="116" y1="1420" x2="120" y2="1420" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4200" id="specie_177" onmousemove="ShowTooltip(evt, 'AB219-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB219-VUB_co</text>
+ <line x1="116" y1="4200" x2="120" y2="4200" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4220" id="specie_178" onmousemove="ShowTooltip(evt, 'AB21-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB21-VUB_cop</text>
+ <line x1="116" y1="4220" x2="120" y2="4220" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4240" id="specie_179" onmousemove="ShowTooltip(evt, 'AB21-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB21-VUB_cop</text>
+ <line x1="116" y1="4240" x2="120" y2="4240" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4260" id="specie_180" onmousemove="ShowTooltip(evt, 'AB21-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB21-VUB_cop</text>
+ <line x1="116" y1="4260" x2="120" y2="4260" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4280" id="specie_181" onmousemove="ShowTooltip(evt, 'AB21-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB21-VUB_cop</text>
+ <line x1="116" y1="4280" x2="120" y2="4280" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4300" id="specie_182" onmousemove="ShowTooltip(evt, 'AB21-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB21-VUB_cop</text>
+ <line x1="116" y1="4300" x2="120" y2="4300" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4320" id="specie_183" onmousemove="ShowTooltip(evt, 'AB21-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB21-VUB_cop</text>
+ <line x1="116" y1="4320" x2="120" y2="4320" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4340" id="specie_184" onmousemove="ShowTooltip(evt, 'AB220-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB220-VUB_co</text>
+ <line x1="116" y1="4340" x2="120" y2="4340" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4360" id="specie_185" onmousemove="ShowTooltip(evt, 'AB220-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB220-VUB_co</text>
+ <line x1="116" y1="4360" x2="120" y2="4360" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4380" id="specie_186" onmousemove="ShowTooltip(evt, 'AB220-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB220-VUB_co</text>
+ <line x1="116" y1="4380" x2="120" y2="4380" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4400" id="specie_187" onmousemove="ShowTooltip(evt, 'AB220-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB220-VUB_co</text>
+ <line x1="116" y1="4400" x2="120" y2="4400" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4420" id="specie_188" onmousemove="ShowTooltip(evt, 'AB220-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB220-VUB_co</text>
+ <line x1="116" y1="4420" x2="120" y2="4420" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4440" id="specie_189" onmousemove="ShowTooltip(evt, 'AB220-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB220-VUB_co</text>
+ <line x1="116" y1="4440" x2="120" y2="4440" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4460" id="specie_190" onmousemove="ShowTooltip(evt, 'AB222-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB222-VUB_co</text>
+ <line x1="116" y1="4460" x2="120" y2="4460" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4480" id="specie_191" onmousemove="ShowTooltip(evt, 'AB222-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB222-VUB_co</text>
+ <line x1="116" y1="4480" x2="120" y2="4480" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5880" id="specie_261" onmousemove="ShowTooltip(evt, 'AB222-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB222-VUB_co</text>
+ <line x1="116" y1="5880" x2="120" y2="5880" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4500" id="specie_192" onmousemove="ShowTooltip(evt, 'AB222-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB222-VUB_co</text>
+ <line x1="116" y1="4500" x2="120" y2="4500" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4520" id="specie_193" onmousemove="ShowTooltip(evt, 'AB222-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB222-VUB_co</text>
+ <line x1="116" y1="4520" x2="120" y2="4520" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4540" id="specie_194" onmousemove="ShowTooltip(evt, 'AB222-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB222-VUB_co</text>
+ <line x1="116" y1="4540" x2="120" y2="4540" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4560" id="specie_195" onmousemove="ShowTooltip(evt, 'AB224-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB224-VUB_co</text>
+ <line x1="116" y1="4560" x2="120" y2="4560" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4580" id="specie_196" onmousemove="ShowTooltip(evt, 'AB224-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB224-VUB_co</text>
+ <line x1="116" y1="4580" x2="120" y2="4580" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4600" id="specie_197" onmousemove="ShowTooltip(evt, 'AB224-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB224-VUB_co</text>
+ <line x1="116" y1="4600" x2="120" y2="4600" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4620" id="specie_198" onmousemove="ShowTooltip(evt, 'AB224-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB224-VUB_co</text>
+ <line x1="116" y1="4620" x2="120" y2="4620" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4640" id="specie_199" onmousemove="ShowTooltip(evt, 'AB224-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB224-VUB_co</text>
+ <line x1="116" y1="4640" x2="120" y2="4640" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4660" id="specie_200" onmousemove="ShowTooltip(evt, 'AB224-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB224-VUB_co</text>
+ <line x1="116" y1="4660" x2="120" y2="4660" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4680" id="specie_201" onmousemove="ShowTooltip(evt, 'AB226-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB226-VUB_co</text>
+ <line x1="116" y1="4680" x2="120" y2="4680" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4700" id="specie_202" onmousemove="ShowTooltip(evt, 'AB226-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB226-VUB_co</text>
+ <line x1="116" y1="4700" x2="120" y2="4700" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4720" id="specie_203" onmousemove="ShowTooltip(evt, 'AB226-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB226-VUB_co</text>
+ <line x1="116" y1="4720" x2="120" y2="4720" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4740" id="specie_204" onmousemove="ShowTooltip(evt, 'AB226-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB226-VUB_co</text>
+ <line x1="116" y1="4740" x2="120" y2="4740" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4760" id="specie_205" onmousemove="ShowTooltip(evt, 'AB226-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB226-VUB_co</text>
+ <line x1="116" y1="4760" x2="120" y2="4760" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4780" id="specie_206" onmousemove="ShowTooltip(evt, 'AB226-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB226-VUB_co</text>
+ <line x1="116" y1="4780" x2="120" y2="4780" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1440" id="specie_39" onmousemove="ShowTooltip(evt, 'AB227-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB227-VUB_co</text>
+ <line x1="116" y1="1440" x2="120" y2="1440" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1460" id="specie_40" onmousemove="ShowTooltip(evt, 'AB227-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB227-VUB_co</text>
+ <line x1="116" y1="1460" x2="120" y2="1460" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1480" id="specie_41" onmousemove="ShowTooltip(evt, 'AB227-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB227-VUB_co</text>
+ <line x1="116" y1="1480" x2="120" y2="1480" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1500" id="specie_42" onmousemove="ShowTooltip(evt, 'AB227-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB227-VUB_co</text>
+ <line x1="116" y1="1500" x2="120" y2="1500" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5760" id="specie_255" onmousemove="ShowTooltip(evt, 'AB227-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB227-VUB_co</text>
+ <line x1="116" y1="5760" x2="120" y2="5760" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1520" id="specie_43" onmousemove="ShowTooltip(evt, 'AB227-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB227-VUB_co</text>
+ <line x1="116" y1="1520" x2="120" y2="1520" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1540" id="specie_44" onmousemove="ShowTooltip(evt, 'AB229-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB229-VUB_co</text>
+ <line x1="116" y1="1540" x2="120" y2="1540" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1560" id="specie_45" onmousemove="ShowTooltip(evt, 'AB229-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB229-VUB_co</text>
+ <line x1="116" y1="1560" x2="120" y2="1560" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1580" id="specie_46" onmousemove="ShowTooltip(evt, 'AB229-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB229-VUB_co</text>
+ <line x1="116" y1="1580" x2="120" y2="1580" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1600" id="specie_47" onmousemove="ShowTooltip(evt, 'AB229-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB229-VUB_co</text>
+ <line x1="116" y1="1600" x2="120" y2="1600" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1620" id="specie_48" onmousemove="ShowTooltip(evt, 'AB229-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB229-VUB_co</text>
+ <line x1="116" y1="1620" x2="120" y2="1620" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1640" id="specie_49" onmousemove="ShowTooltip(evt, 'AB229-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB229-VUB_co</text>
+ <line x1="116" y1="1640" x2="120" y2="1640" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1660" id="specie_50" onmousemove="ShowTooltip(evt, 'AB231-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB231-VUB_co</text>
+ <line x1="116" y1="1660" x2="120" y2="1660" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1680" id="specie_51" onmousemove="ShowTooltip(evt, 'AB231-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB231-VUB_co</text>
+ <line x1="116" y1="1680" x2="120" y2="1680" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1700" id="specie_52" onmousemove="ShowTooltip(evt, 'AB231-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB231-VUB_co</text>
+ <line x1="116" y1="1700" x2="120" y2="1700" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1720" id="specie_53" onmousemove="ShowTooltip(evt, 'AB231-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB231-VUB_co</text>
+ <line x1="116" y1="1720" x2="120" y2="1720" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1740" id="specie_54" onmousemove="ShowTooltip(evt, 'AB231-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB231-VUB_co</text>
+ <line x1="116" y1="1740" x2="120" y2="1740" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4800" id="specie_207" onmousemove="ShowTooltip(evt, 'AB231-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB231-VUB_co</text>
+ <line x1="116" y1="4800" x2="120" y2="4800" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1760" id="specie_55" onmousemove="ShowTooltip(evt, 'AB232-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB232-VUB_co</text>
+ <line x1="116" y1="1760" x2="120" y2="1760" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1780" id="specie_56" onmousemove="ShowTooltip(evt, 'AB232-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB232-VUB_co</text>
+ <line x1="116" y1="1780" x2="120" y2="1780" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1800" id="specie_57" onmousemove="ShowTooltip(evt, 'AB232-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB232-VUB_co</text>
+ <line x1="116" y1="1800" x2="120" y2="1800" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1820" id="specie_58" onmousemove="ShowTooltip(evt, 'AB232-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB232-VUB_co</text>
+ <line x1="116" y1="1820" x2="120" y2="1820" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1840" id="specie_59" onmousemove="ShowTooltip(evt, 'AB232-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB232-VUB_co</text>
+ <line x1="116" y1="1840" x2="120" y2="1840" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1860" id="specie_60" onmousemove="ShowTooltip(evt, 'AB232-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB232-VUB_co</text>
+ <line x1="116" y1="1860" x2="120" y2="1860" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4820" id="specie_208" onmousemove="ShowTooltip(evt, 'AB233-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB233-VUB_co</text>
+ <line x1="116" y1="4820" x2="120" y2="4820" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4840" id="specie_209" onmousemove="ShowTooltip(evt, 'AB233-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB233-VUB_co</text>
+ <line x1="116" y1="4840" x2="120" y2="4840" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4860" id="specie_210" onmousemove="ShowTooltip(evt, 'AB233-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB233-VUB_co</text>
+ <line x1="116" y1="4860" x2="120" y2="4860" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4880" id="specie_211" onmousemove="ShowTooltip(evt, 'AB233-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB233-VUB_co</text>
+ <line x1="116" y1="4880" x2="120" y2="4880" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4900" id="specie_212" onmousemove="ShowTooltip(evt, 'AB233-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB233-VUB_co</text>
+ <line x1="116" y1="4900" x2="120" y2="4900" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4920" id="specie_213" onmousemove="ShowTooltip(evt, 'AB233-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB233-VUB_co</text>
+ <line x1="116" y1="4920" x2="120" y2="4920" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4940" id="specie_214" onmousemove="ShowTooltip(evt, 'AB32-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB32-VUB_cop</text>
+ <line x1="116" y1="4940" x2="120" y2="4940" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4960" id="specie_215" onmousemove="ShowTooltip(evt, 'AB32-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB32-VUB_cop</text>
+ <line x1="116" y1="4960" x2="120" y2="4960" style="stroke:black;stroke-width:1" />
+  <text x="0" y="4980" id="specie_216" onmousemove="ShowTooltip(evt, 'AB32-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB32-VUB_cop</text>
+ <line x1="116" y1="4980" x2="120" y2="4980" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5000" id="specie_217" onmousemove="ShowTooltip(evt, 'AB32-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB32-VUB_cop</text>
+ <line x1="116" y1="5000" x2="120" y2="5000" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5020" id="specie_218" onmousemove="ShowTooltip(evt, 'AB32-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB32-VUB_cop</text>
+ <line x1="116" y1="5020" x2="120" y2="5020" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5040" id="specie_219" onmousemove="ShowTooltip(evt, 'AB32-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB32-VUB_cop</text>
+ <line x1="116" y1="5040" x2="120" y2="5040" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5060" id="specie_220" onmousemove="ShowTooltip(evt, 'AB36-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB36-VUB_cop</text>
+ <line x1="116" y1="5060" x2="120" y2="5060" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5080" id="specie_221" onmousemove="ShowTooltip(evt, 'AB36-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB36-VUB_cop</text>
+ <line x1="116" y1="5080" x2="120" y2="5080" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5100" id="specie_222" onmousemove="ShowTooltip(evt, 'AB36-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB36-VUB_cop</text>
+ <line x1="116" y1="5100" x2="120" y2="5100" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5120" id="specie_223" onmousemove="ShowTooltip(evt, 'AB36-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB36-VUB_cop</text>
+ <line x1="116" y1="5120" x2="120" y2="5120" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5140" id="specie_224" onmousemove="ShowTooltip(evt, 'AB36-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB36-VUB_cop</text>
+ <line x1="116" y1="5140" x2="120" y2="5140" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6080" id="specie_271" onmousemove="ShowTooltip(evt, 'AB36-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB36-VUB_cop</text>
+ <line x1="116" y1="6080" x2="120" y2="6080" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6100" id="specie_272" onmousemove="ShowTooltip(evt, 'AB39-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB39-VUB_cop</text>
+ <line x1="116" y1="6100" x2="120" y2="6100" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5160" id="specie_225" onmousemove="ShowTooltip(evt, 'AB39-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB39-VUB_cop</text>
+ <line x1="116" y1="5160" x2="120" y2="5160" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6280" id="specie_281" onmousemove="ShowTooltip(evt, 'AB39-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB39-VUB_cop</text>
+ <line x1="116" y1="6280" x2="120" y2="6280" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5180" id="specie_226" onmousemove="ShowTooltip(evt, 'AB39-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB39-VUB_cop</text>
+ <line x1="116" y1="5180" x2="120" y2="5180" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6260" id="specie_280" onmousemove="ShowTooltip(evt, 'AB39-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB39-VUB_cop</text>
+ <line x1="116" y1="6260" x2="120" y2="6260" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5200" id="specie_227" onmousemove="ShowTooltip(evt, 'AB39-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB39-VUB_cop</text>
+ <line x1="116" y1="5200" x2="120" y2="5200" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5220" id="specie_228" onmousemove="ShowTooltip(evt, 'AB3-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB3-VUB_copy</text>
+ <line x1="116" y1="5220" x2="120" y2="5220" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2360" id="specie_85" onmousemove="ShowTooltip(evt, 'AB3-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB3-VUB_copy</text>
+ <line x1="116" y1="2360" x2="120" y2="2360" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6020" id="specie_268" onmousemove="ShowTooltip(evt, 'AB3-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB3-VUB_copy</text>
+ <line x1="116" y1="6020" x2="120" y2="6020" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5240" id="specie_229" onmousemove="ShowTooltip(evt, 'AB3-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB3-VUB_copy</text>
+ <line x1="116" y1="5240" x2="120" y2="5240" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5260" id="specie_230" onmousemove="ShowTooltip(evt, 'AB3-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB3-VUB_copy</text>
+ <line x1="116" y1="5260" x2="120" y2="5260" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5280" id="specie_231" onmousemove="ShowTooltip(evt, 'AB3-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB3-VUB_copy</text>
+ <line x1="116" y1="5280" x2="120" y2="5280" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5300" id="specie_232" onmousemove="ShowTooltip(evt, 'AB40-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB40-VUB_cop</text>
+ <line x1="116" y1="5300" x2="120" y2="5300" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5920" id="specie_263" onmousemove="ShowTooltip(evt, 'AB40-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB40-VUB_cop</text>
+ <line x1="116" y1="5920" x2="120" y2="5920" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5940" id="specie_264" onmousemove="ShowTooltip(evt, 'AB40-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB40-VUB_cop</text>
+ <line x1="116" y1="5940" x2="120" y2="5940" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5320" id="specie_233" onmousemove="ShowTooltip(evt, 'AB40-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB40-VUB_cop</text>
+ <line x1="116" y1="5320" x2="120" y2="5320" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5340" id="specie_234" onmousemove="ShowTooltip(evt, 'AB40-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB40-VUB_cop</text>
+ <line x1="116" y1="5340" x2="120" y2="5340" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5360" id="specie_235" onmousemove="ShowTooltip(evt, 'AB40-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB40-VUB_cop</text>
+ <line x1="116" y1="5360" x2="120" y2="5360" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1880" id="specie_61" onmousemove="ShowTooltip(evt, 'AB5075-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB5075-VUB_c</text>
+ <line x1="116" y1="1880" x2="120" y2="1880" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1900" id="specie_62" onmousemove="ShowTooltip(evt, 'AB5075-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB5075-VUB_c</text>
+ <line x1="116" y1="1900" x2="120" y2="1900" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1920" id="specie_63" onmousemove="ShowTooltip(evt, 'AB5075-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB5075-VUB_c</text>
+ <line x1="116" y1="1920" x2="120" y2="1920" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1940" id="specie_64" onmousemove="ShowTooltip(evt, 'AB5075-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB5075-VUB_c</text>
+ <line x1="116" y1="1940" x2="120" y2="1940" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1960" id="specie_65" onmousemove="ShowTooltip(evt, 'AB5075-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB5075-VUB_c</text>
+ <line x1="116" y1="1960" x2="120" y2="1960" style="stroke:black;stroke-width:1" />
+  <text x="0" y="1980" id="specie_66" onmousemove="ShowTooltip(evt, 'AB5075-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB5075-VUB_c</text>
+ <line x1="116" y1="1980" x2="120" y2="1980" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5660" id="specie_250" onmousemove="ShowTooltip(evt, 'AB9-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB9-VUB_copy</text>
+ <line x1="116" y1="5660" x2="120" y2="5660" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2000" id="specie_67" onmousemove="ShowTooltip(evt, 'AB9-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB9-VUB_copy</text>
+ <line x1="116" y1="2000" x2="120" y2="2000" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2020" id="specie_68" onmousemove="ShowTooltip(evt, 'AB9-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB9-VUB_copy</text>
+ <line x1="116" y1="2020" x2="120" y2="2020" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2040" id="specie_69" onmousemove="ShowTooltip(evt, 'AB9-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB9-VUB_copy</text>
+ <line x1="116" y1="2040" x2="120" y2="2040" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2060" id="specie_70" onmousemove="ShowTooltip(evt, 'AB9-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB9-VUB_copy</text>
+ <line x1="116" y1="2060" x2="120" y2="2060" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2080" id="specie_71" onmousemove="ShowTooltip(evt, 'AB9-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >AB9-VUB_copy</text>
+ <line x1="116" y1="2080" x2="120" y2="2080" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5380" id="specie_236" onmousemove="ShowTooltip(evt, 'ATCC17978-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC17978-VU</text>
+ <line x1="116" y1="5380" x2="120" y2="5380" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5400" id="specie_237" onmousemove="ShowTooltip(evt, 'ATCC17978-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC17978-VU</text>
+ <line x1="116" y1="5400" x2="120" y2="5400" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5420" id="specie_238" onmousemove="ShowTooltip(evt, 'ATCC17978-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC17978-VU</text>
+ <line x1="116" y1="5420" x2="120" y2="5420" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5440" id="specie_239" onmousemove="ShowTooltip(evt, 'ATCC17978-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC17978-VU</text>
+ <line x1="116" y1="5440" x2="120" y2="5440" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5460" id="specie_240" onmousemove="ShowTooltip(evt, 'ATCC17978-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC17978-VU</text>
+ <line x1="116" y1="5460" x2="120" y2="5460" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5480" id="specie_241" onmousemove="ShowTooltip(evt, 'ATCC17978-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC17978-VU</text>
+ <line x1="116" y1="5480" x2="120" y2="5480" style="stroke:black;stroke-width:1" />
+  <text x="0" y="6040" id="specie_269" onmousemove="ShowTooltip(evt, 'ATCC19606-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC19606-VU</text>
+ <line x1="116" y1="6040" x2="120" y2="6040" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2100" id="specie_72" onmousemove="ShowTooltip(evt, 'ATCC19606-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC19606-VU</text>
+ <line x1="116" y1="2100" x2="120" y2="2100" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5780" id="specie_256" onmousemove="ShowTooltip(evt, 'ATCC19606-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC19606-VU</text>
+ <line x1="116" y1="5780" x2="120" y2="5780" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2120" id="specie_73" onmousemove="ShowTooltip(evt, 'ATCC19606-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC19606-VU</text>
+ <line x1="116" y1="2120" x2="120" y2="2120" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2140" id="specie_74" onmousemove="ShowTooltip(evt, 'ATCC19606-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC19606-VU</text>
+ <line x1="116" y1="2140" x2="120" y2="2140" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2160" id="specie_75" onmousemove="ShowTooltip(evt, 'ATCC19606-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >ATCC19606-VU</text>
+ <line x1="116" y1="2160" x2="120" y2="2160" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2180" id="specie_76" onmousemove="ShowTooltip(evt, 'DSM30011-VUB_copy1')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >DSM30011-VUB</text>
+ <line x1="116" y1="2180" x2="120" y2="2180" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2200" id="specie_77" onmousemove="ShowTooltip(evt, 'DSM30011-VUB_copy2')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >DSM30011-VUB</text>
+ <line x1="116" y1="2200" x2="120" y2="2200" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2220" id="specie_78" onmousemove="ShowTooltip(evt, 'DSM30011-VUB_copy3')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >DSM30011-VUB</text>
+ <line x1="116" y1="2220" x2="120" y2="2220" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2240" id="specie_79" onmousemove="ShowTooltip(evt, 'DSM30011-VUB_copy4')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >DSM30011-VUB</text>
+ <line x1="116" y1="2240" x2="120" y2="2240" style="stroke:black;stroke-width:1" />
+  <text x="0" y="5500" id="specie_242" onmousemove="ShowTooltip(evt, 'DSM30011-VUB_copy5')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >DSM30011-VUB</text>
+ <line x1="116" y1="5500" x2="120" y2="5500" style="stroke:black;stroke-width:1" />
+  <text x="0" y="2260" id="specie_80" onmousemove="ShowTooltip(evt, 'DSM30011-VUB_copy6')"   onmouseout="HideTooltip(evt)" style="color:black;font-size :10;font-family = monospace;" >DSM30011-VUB</text>
+ <line x1="116" y1="2260" x2="120" y2="2260" style="stroke:black;stroke-width:1" />
+<rect id="Pval282"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:282 nb_under:81')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,80,81)" x="114" y="1454"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval283"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:283 nb_under:8')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,250,8)" x="114" y="5584"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval284"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:284 nb_under:157')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,242,157)" x="114" y="3934"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval285"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:285 nb_under:2')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,259,2)" x="114" y="5824"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval286"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:286 nb_under:5')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,85,5)" x="114" y="2314"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval287"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:287 nb_under:4')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,268,4)" x="114" y="5984"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval288"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:288 nb_under:4')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,254,4)" x="114" y="5704"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval289"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:289 nb_under:6')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,278,6)" x="114" y="6164"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval290"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:290 nb_under:2')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,280,2)" x="114" y="6244"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval291"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:291 nb_under:2')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,261,2)" x="114" y="5864"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval292"  onmousemove="ShowTooltip(evt, 'Proba: NA dist:0.000000  nbsubsets:20 node:292 nb_under:2')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,264,2)" x="114" y="5924"  width="12" height="12"  style ="fill:#CCCCCC;stroke:black"/> 
+<rect id="Pval293"  onmousemove="ShowTooltip(evt, 'Proba: 8.01e-02 dist:0.000652  nbsubsets:18 node:293 nbunder:243 ')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,242,243)" x="811" y="2567"  width="12" height="12"  style ="fill:#FFAF00;stroke:black"/> 
+<rect id="Pval294"  onmousemove="ShowTooltip(evt, 'Proba: 5.76e-01 dist:0.000653  nbsubsets:6 node:294 nbunder:269 ')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,268,269)" x="812" y="5515"  width="12" height="12"  style ="fill:#FFFF00;stroke:black"/> 
+<rect id="Pval295"  onmousemove="ShowTooltip(evt, 'Proba: 3.45e-01 dist:0.000653  nbsubsets:6 node:295 nbunder:9 ')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,281,9)" x="812" y="6227"  width="12" height="12"  style ="fill:#FFFF00;stroke:black"/> 
+<rect id="Pval296"  onmousemove="ShowTooltip(evt, 'Proba: 7.99e-01 dist:0.000653  nbsubsets:2 node:296 nbunder:273 ')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,272,273)" x="812" y="5954"  width="12" height="12"  style ="fill:#FFFF00;stroke:black"/> 
+<rect id="Pval297"  onmousemove="ShowTooltip(evt, 'Proba: 4.64e-01 dist:0.001305  nbsubsets:1 node:297 nbunder:282 ')"   onmouseout="HideTooltip(evt)"  			onmousedown="select_species(evt,281,282)" x="1510" y="6090"  width="12" height="12"  style ="fill:#FFFF00;stroke:black"/> 
+<rect class="tooltip_bg" id="tooltip_bg"
+      x="0" y="0" rx="4" ry="4"
+      width="55" height="17" visibility="hidden"/>
+ <text class="tooltip" id="tooltip"
+     x="0" y="0" visibility="hidden">Tooltip</text>
+</svg>
