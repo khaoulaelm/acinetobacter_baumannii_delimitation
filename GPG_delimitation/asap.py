@@ -2,9 +2,9 @@ import os
 import subprocess
 
 # Paths
-asap_exec = os.path.expanduser("~/Downloads/ASAP/asap")
-input_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/core_genes_aligned")  
-output_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/ASAP_analysis/ASAP_results")
+asap_exec = os.path.expanduser("~/asap")
+input_dir = os.path.expanduser("~/core_genes_aligned")  
+output_dir = os.path.expanduser("~/ASAP_results")
 failed_log = os.path.join(output_dir, "failed_genes.txt")
 
 # Ensure output directory exists
