@@ -3,9 +3,9 @@ import csv
 import numpy as np
 
 # Define paths
-base_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/ASAP_analysis")
+base_dir = os.path.expanduser("~/ASAP_analysis")
 partition_dir = os.path.join(base_dir, "partition_matrices")  # Directory with partition matrices (successful genes)
-strains_file = os.path.expanduser("~/Desktop/article1/strains.txt")  # File with strains
+strains_file = os.path.expanduser("~/strains.txt")  # File with strains
 output_dir = os.path.join(base_dir, "conspecificity_matrix")
 os.makedirs(output_dir, exist_ok=True)
 
