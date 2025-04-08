@@ -2,16 +2,16 @@ import os
 import subprocess
 
 # Path to the ABGD executable
-abgd_exec = os.path.expanduser("~/Downloads/Abgd/abgd")  
+abgd_exec = os.path.expanduser("~/abgd")  
 
 # Directory containing the aligned core genes (in FASTA format)
-input_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/core_genes_aligned")
+input_dir = os.path.expanduser("~/core_genes_aligned")
 
 # Directory where the ABGD results will be stored
-main_output_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/ABGD_results")
+main_output_dir = os.path.expanduser("~/ABGD_results")
 
 # Path to the file that will store the list of failed genes
-failed_genes_file = os.path.expanduser("~/Desktop/article1/GPG_analysis/failed_genes.txt")
+failed_genes_file = os.path.expanduser("~/failed_genes.txt")
 
 # Ensure output root exists
 os.makedirs(main_output_dir, exist_ok=True)
