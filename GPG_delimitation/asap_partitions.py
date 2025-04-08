@@ -2,7 +2,7 @@ import os
 import csv
 
 # Base directory for ASAP results
-asap_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/ASAP_analysis/ASAP_results")
+asap_dir = os.path.expanduser("~/ASAP_results")
 output_dir = os.path.join(asap_dir, "partition_matrices")
 os.makedirs(output_dir, exist_ok=True)
 
