@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import os
 
 # Define input and output paths
-asap_matrix_path = os.path.expanduser("~/Desktop/article1/GPG_analysis/ASAP_analysis/conspecificity_matrix/conspecificity_matrix.csv")
-output_path = os.path.expanduser("~/Desktop/article1/GPG_analysis/ASAP_analysis/conspecificity_heatmap.png")
+asap_matrix_path = os.path.expanduser("~/conspecificity_matrix.csv")
+output_path = os.path.expanduser("~/conspecificity_heatmap.png")
 
 # Load ASAP conspecificity matrix
 asap_df = pd.read_csv(asap_matrix_path, index_col=0)
