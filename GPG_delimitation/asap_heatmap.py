@@ -5,7 +5,7 @@ import os
 
 # Define input and output paths
 asap_matrix_path = os.path.expanduser("~/conspecificity_matrix.csv")
-output_path = os.path.expanduser("~/conspecificity_heatmap.png")
+output_path = os.path.expanduser("~/asap_heatmap.png")
 
 # Load ASAP conspecificity matrix
 asap_df = pd.read_csv(asap_matrix_path, index_col=0)
