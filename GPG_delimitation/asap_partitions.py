@@ -7,7 +7,7 @@ output_dir = os.path.join(asap_dir, "partition_matrices")
 os.makedirs(output_dir, exist_ok=True)
 
 # Load strain names from strains.txt
-with open(os.path.expanduser("~/Desktop/article1/strains.txt")) as f:
+with open(os.path.expanduser("~/strains.txt")) as f:
     strains = [s.strip() for s in f.read().split(",") if s.strip()]
 
 # Create a matrix where 1 = same group, 0 = different
