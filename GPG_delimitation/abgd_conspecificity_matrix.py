@@ -3,10 +3,10 @@ import pandas as pd
 import numpy as np
 
 # Define the directory where partition matrices are stored
-partition_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/partition_matrices")
+partition_dir = os.path.expanduser("~/partition_matrices")
 
 # Define the output path where the conspecificity matrix will be saved
-output_path = os.path.expanduser("~/Desktop/article1/GPG_analysis/conspecificity_matrix.csv")
+output_path = os.path.expanduser("~/conspecificity_matrix.csv")
 
 # Get all partition matrix files
 files = [f for f in os.listdir(partition_dir) if f.endswith(".csv")]
