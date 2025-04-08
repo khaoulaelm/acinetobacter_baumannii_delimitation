@@ -5,7 +5,7 @@ import os
 
 # Define input and output paths
 matrix_path = os.path.expanduser("~/conspecificity_matrix.csv")
-output_path = os.path.expanduser("~/ABGD_conspecificity_heatmap_improved.png")
+output_path = os.path.expanduser("~/ABGD_heatmap.png")
 
 # Load matrix
 df = pd.read_csv(matrix_path, index_col=0)
