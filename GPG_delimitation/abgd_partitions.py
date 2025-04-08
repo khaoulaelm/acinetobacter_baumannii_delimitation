@@ -3,8 +3,8 @@ import pandas as pd
 from collections import defaultdict
 
 # Define directories for ABGD results and where the partition matrices will be saved
-abgd_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/ABGD_results")
-output_dir = os.path.expanduser("~/Desktop/article1/GPG_analysis/partition_matrices")
+abgd_dir = os.path.expanduser("~/ABGD_results")
+output_dir = os.path.expanduser("~/partition_matrices")
 
 # Make sure output directory exists
 os.makedirs(output_dir, exist_ok=True)
